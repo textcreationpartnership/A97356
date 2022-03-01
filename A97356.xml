@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mediterranean passage by water, from London to Bristol, &amp;c., and from Lynne to Yarmouth, and so consequently to the city of York for the great advancement of trade &amp; traffique / by Francis Mathew, Esquire.</title>
+            <author>Mathew, Francis, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97356</idno>
+            <idno type="STC">Wing M1287H</idno>
+            <idno type="EEBO-CITATION">11875258</idno>
+            <idno type="OCLC">ocm 11875258</idno>
+            <idno type="VID">31820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 501:34 and 1706:11 or 1892:6b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mediterranean passage by water, from London to Bristol, &amp;c., and from Lynne to Yarmouth, and so consequently to the city of York for the great advancement of trade &amp; traffique / by Francis Mathew, Esquire.</title>
+                  <author>Mathew, Francis, Esquire.</author>
+               </titleStmt>
+               <extent>[7], 12 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXX [1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: To the Kings Most Excellent Majesty, and the honorable Houses of Parlament [sic].</note>
+                  <note>Caption title: The opening of rivers for navigation.</note>
+                  <note>This item appears at reel 501:34 as Wing M1318 (number cancelled in Wing 2nd ed.), and at reel 1706:11 as Wing M1287H.</note>
+                  <note>Copy at reel 1706:11 lacks frontispiece portrait of Charles II.</note>
+                  <note>Reproductions of the originals in Bristol Public Library, Bristol, England, the University of Illinois (Urbana-Champaign Campus). Library, and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waterways --  England.</term>
+               <term>Inland water transportation --  England.</term>
+               <term>Inland navigation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <!-- Separated from Wm1287g.pdcc.sgm-->
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:31820:9"/>
+            <pb facs="tcp:31820:9"/>
+            <pb facs="tcp:31820:10"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Charles II with royal seal</figDesc>
+                  <head>Auguſtiſſimi CAROLI <hi>Secundi Dei</hi> Gratia ANGLIAE SCOTIAE FRANCIAE ET HIBERNIAE REGIS Effigie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <q>HONY SOIT QVI MAL Y PENSE</q>
+                  <byline>A: Hertochs Fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:31820:10" rendition="simple:additions"/>
+         </div>
+         <div type="title_page">
+            <p>
+               <hi>To the Kings Moſt Excellent Majeſty,</hi> And the <hi>Honorable Houſes of Parlament.</hi>
+            </p>
+            <p>A MEDITERRANEAN Paſſage by water, FROM LONDON to BRISTOL, &amp;c.</p>
+            <p>And from LYNNE to YARMOUTH, And ſo conſequently to the City of YORK: for the great Advancement of TRADE &amp; TRAFFIQUE.</p>
+            <p>By <hi>Francis Mathew,</hi> Eſquire.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Newcomb.</hi> MDCLXX.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:31820:11" rendition="simple:additions"/>
+            <pb facs="tcp:31820:11" rendition="simple:additions"/>
+            <head>TO THE Kings Moſt Excellent MAJESTY CHARLES II.</head>
+            <head type="sub">By the Grace of GOD, King of <hi>England, Scotland, France</hi> and <hi>Ireland;</hi> Defen<g ref="char:EOLhyphen"/>der of the Faith, &amp;c. And the Honorable Houſes of PARLAMENT.</head>
+            <opener>
+               <salute>May it pleaſe Your moſt Gracious Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Bſerving, by traverſing this Iſland, that di<g ref="char:EOLhyphen"/>vers Rivers within the ſame may be moul<g ref="char:EOLhyphen"/>ded into ſuch Form, as will admit of Veſ<g ref="char:EOLhyphen"/>ſels of <hi>thirty Tun</hi> burden, or upwards, to ſail in, unto the great Relief of divers Countryes in this Iſland, by means of the ſame, at leſs then half the Rates now paid for Land carriage, and near with as ſpeedy return, going both by day and night; and to the Reward of Your Moſt Gracious Majesty, if the ſame were once made ſo Navigable; and conſidering at how eaſy a Charge
+<pb facs="tcp:31820:12"/>(as I humbly conceive) the ſame may be brought to paſs, in compariſon of the Advantages which may be reap'd thereby: and the great encouragement given my endeavours of bringing this deſign to paſs, by divers Mayor Towns and Corporations of this Land, that conceive a Reliſh of the Sweetneſs through the great Opinion onely they have of it, upon ſerious Diſcourſe had with me concerning the ſame; a Catalogue whereof hath been preſented to your Majeſty: as by the like means may be had from many more ſuch Towns which have the like Invitations to the ſame: I humbly preſume, upon this ſtock, to become Importunate to Your moſt Excellent and Royal Majeſty for the enterprize of and ready effecting this Work, being an Under<g ref="char:EOLhyphen"/>taking ſo Heroick, that 'tis beyond the Level of any others to at<g ref="char:EOLhyphen"/>tempt: and, ſeeing that the longer it is delayed, If your Ma<g ref="char:EOLhyphen"/>jeſty ſhall underſtand that the ſame may produce a Profit (which I endeavour by this ſmall Treatiſe to evince) the longer is the Profit loſt. And after my Travels, Induſtry and Studies in and about this great Improvement, and with ſo great an Ex<g ref="char:EOLhyphen"/>pence of my Eſtate in Your Majeſties Royal Fathers Service, by the Advance of a Troop of Horſe, and the accommodation of Three Sons, at my own proper Charge in the ſame, and otherwiſe, beſides the unhappy Conſequence of Impriſonment, Plunder and Sequeſtration in the ſame epidemical Misfortunes which all Your Loyal Subjects accompanied Your Majeſty in, and alſo a great Misfortune I ſuſtained by Fire: all which occa<g ref="char:EOLhyphen"/>ſioned my Wife and ſelf, during thoſe times, to live at a great diſtance from each other, and wholly to rely on our Friends, in ſo much that at preſent, I am neither able to compoſe my debts, nor preſerve my lawful Rights againſt undue Encombrances: If Your Majeſty ſhall be pleaſed to promote this Work, and bring it to effect within my remnant of daies, by Your Majeſties gracious, favour, without other Expence then what will carry along with it an advantage to Your Majeſty; Your Majeſty may relieve
+<pb facs="tcp:31820:12"/>me with what may ſeem ſo juſt, as a Recompence due unto me for my Endeavours about the ſame, and may give me Leiſure (after the diſtractions I now ſuſtain) with great alacrity for the diſcharge of ſo good an Office (as the Obteining of Your Majeſty to effect a work of ſo great a Benefit to my Country) to enjoy the fruits of my Labours, and expreſs my ſelf</p>
+            <closer>
+               <signed>
+                  <hi>Your MAJESTIES Moſt obſequious, faithful, and moſt obedient Subject and Servant</hi> Francis Mathew.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31820:13"/>
+            <pb n="1" facs="tcp:31820:13"/>
+            <head>The Opening of RIVERS FOR Navigation.</head>
+            <p>THough there be many more Obſtructions and Difficul<g ref="char:EOLhyphen"/>ties to be met with, in the making of the Riverrs with<g ref="char:EOLhyphen"/>in this Iſland Navigable, then are familiarly in the <hi>Flat Netherlands of Holland,</hi> and the reſt of the United Pro<g ref="char:EOLhyphen"/>vinces of <hi>Belgium:</hi> whoſe benefit may ſeem to allure us to the like <hi>Induſtry,</hi> nevertheleſs <hi>Englands</hi> fair Valleyes, and rich Inlets, through which many noble Rivers inſinuate themſeves, might, with the Imitation of our ingenious Neighbours, be made in many places docible of Navigation, to the ineſtimable comfort, eaſe and benefit of the Subject: wherefore, in all Humility, I make this my moſt Humble Addreſs unto Your Moſt Renowned and Em<g ref="char:EOLhyphen"/>perial Majeſty: And ſhew, That yet ſuch an Enterprize in ſeve<g ref="char:EOLhyphen"/>ral places of this Iſland may with advantage be effected by di<g ref="char:EOLhyphen"/>vers and ſundry wayes, of no leſs Importance to the whole Nation,</p>
+            <list>
+               <item>
+                  <hi>First,</hi> Of a Wonderful Improvement to much Trade, and great relief to the Land, and moſt remarkably to be perceived, by the ſupply of many places with the great Benefit of Coal (which with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:31820:14"/>out this means cannot be had) to the imployment of Your Majeſties Subject in Mining, and otherwiſe about the ſame, and alſo the ad<g ref="char:EOLhyphen"/>vance of many from Low degree, becoming Merchants in the ſame, (by that ſure Trade of taking in their Commodities at eaſy rates; ready returnes, and certain gaines, the Eſſentials of all Improve<g ref="char:EOLhyphen"/>ments therein) they thereby becoming ranked in the higheſt Capa<g ref="char:EOLhyphen"/>cities to ſerve their King and Countrey; and Excellent Preſident whereof is to be ſeen in ſuch of the Merchants of <hi>Newcaſtle,</hi> who have traded in that Commodity alone; at much greater ha<g ref="char:EOLhyphen"/>zard, delay and charge than in ſuch <hi>Mediterranean</hi> Rivers (as is by this deſigned) becoming Navigable, may be effectually brought to paſs.</item>
+               <item>
+                  <hi>Secondly,</hi> To the great Eaſe of the Subject. for the Rivers ſo deſigned, being Navigable thereby, with leſſer Charge, with fewer hands, greater Tranſportations from place to place and in ſhorter time may be made: Armies in time of Warre, in their primeſt Strength, by ſuch Tranſport, fit for ready Service (which the ha<g ref="char:EOLhyphen"/>zardous Condition of a Souldiers Calling is dayly to expect) may ſafely, ſilently and without harraſs of the Country in their goods and Carriages, be thus conveyed.</item>
+               <item>
+                  <hi>Thirdly,</hi> Hereby a great Increaſe of His Majeſties Revenue may be eſtabliſhed upon the <hi>Crown</hi> from ſuch a Publick Work, which the happy experience His Majeſty hath had of the <hi>New-Caſtle</hi> Trade of <hi>Coal,</hi> were there no other Commodity then Coal to be tranſ<g ref="char:EOLhyphen"/>ported in ſuch Rivers, may invite him to, and which may be ſetled with ſo great Chearfulneſs of the Subject, as that a great abatement of the Rates of the Commodities traffique'd in may he had thereby; notwithſtanding ſuch impoſition for His Majeſty upon the ſame, to the perpetual eſtabliſhment of the Impoſt, as a juſt return to him for ſo Publique a good Work; to continue to him as one Diadem of his Crown for ever. The Publique proportionably enjoying the benefit thereof accordingly: By which mutual returnes unto each other, His Majſty and Subjects are naturally interwoven in the Pre<g ref="char:EOLhyphen"/>ſervation of each other: According to the Maxim, <hi>That by what the People, by the ſame the Government muſt grow:</hi> &amp; vice verſa: each of them in their ſeveral wayes and powers being to ſupport each other.</item>
+               <pb n="3" facs="tcp:31820:14"/>
+               <item>
+                  <hi>Fourthly,</hi> This Iſland will hereby be the better fortified, be<g ref="char:EOLhyphen"/>cauſe of the Increaſe of Watermen, the Walls thereof.</item>
+               <item>
+                  <hi>Fiftly.</hi> By countenancing this work, Horſe will be preſerved: for<g ref="char:EOLhyphen"/>war, for Merchandize, or other purpoſes, as Occaſion may offer, and the Wiſdom of Your Majeſty may think beſt to approve of.</item>
+               <item>
+                  <hi>Sixtly,</hi> And what is well worthy of Obſerving, the High-wayes hereby will be much preſerved, and become a very acceptable work to the Country, which now notwithſtanding their great coſt, is now a grievous Toil as well to man as beaſt, being now ſo unne<g ref="char:EOLhyphen"/>ceſſarily plowed up by Waggons of Prodigious Burthens, which in this Iſland are dayly travelling: And alſo to the inſenſible relief of this Iſland, by many other wayes and means to be diſcovered by us, as they ſhall be occaſionally offered to us to underſtand.</item>
+            </list>
+            <p>And, indeed, the making of theſe Rivers Navigable, may be brought to paſs, well nigh, at as eaſy a coſt and charge as the <hi>Fen<g ref="char:EOLhyphen"/>ning</hi> works have been, though ſuch great Works ſeemingly threaten great difficulties, which may not be foreſeen or known till felt: Yet, <hi>re vera,</hi> the benefits are ſo innumerable and conſiderable which invites unto this Work in many places of this Iſland, as, at the very firſt ſight, will ſhew ſuch hazards to be too inconſiderable to put a <hi>Baffle,</hi> or occaſion ſo Noble a Work, ſo feaſable, and to ſo good purpoſes, and high ends, (where they are well ballanced, and ma<g ref="char:EOLhyphen"/>naged by well pondered reſolutions) to be laid aſide: there being in this Iſland, Sufficiency of all sorts of Proviſions for undertaking of the ſame, which Prince or People, either are, or may be, unqueſti<g ref="char:EOLhyphen"/>onably furniſhed with, being appointed of Council, in all wayes re<g ref="char:EOLhyphen"/>quiſite for ſuch an enterpriſe of the choiceſt ſtamp, and of hands and means (in this ſo populous and great trading Nation) ſo inexpreſ<g ref="char:EOLhyphen"/>ſibly endleſs, as muſt indiſputably admit them by a preſuppoſed ac<g ref="char:EOLhyphen"/>cord of both, to be interpreted in an eaſy capacity, to act unto effect above the Level of ſuch a work as this: eſpecially being <hi>Engliſh</hi> ſpi<g ref="char:EOLhyphen"/>rits (who by their high Tranſactions almoſt of all kinds through<g ref="char:EOLhyphen"/>out the world) are deemed to admit nothing difficult but by them with Ceremony to be brought to paſs, ſo it be but fit in Prudence to be undertaken, and the more the difficulty and greatneſs of the Work is apparent, let it be carried on with the greater Chearful<g ref="char:EOLhyphen"/>neſs, as to the more atchievement of our Honours in the Succeſs
+<pb n="4" facs="tcp:31820:15"/>thereof, after the manner of <hi>Atlas</hi> who is decypher'd to have car<g ref="char:EOLhyphen"/>ried the World upon his Shoulders, without groaning.</p>
+            <p>Over and beſides the Variety of great and conſtant charges which are to be expended in &amp; about the effecting and continued fruition of this great Improvement, there will be pre-required a Purchaſe of, or other agreement for ſuch Mills, and Parcels of Grounds, from the In<g ref="char:EOLhyphen"/>heritours of them or from ſuch as have the ſame by Leaſe, or from both; which intervenes in and upon ſuch Channels or Lands, which are ſo practicably capable amongſt us (by the Induſtry of man for good purpoſe) of being cut, opened, cleanſed and otherwiſe fitted for Navigation, and ſhall beſt accommodate ſuch deſign: The Banks of ſuch Channels where there muſt be Occaſion for Towing of the Veſſels to be Navigated with by the Aſſiſtance of Horſe or man, being ſo neceſſary an appurtenant to be made uſe of, together with ſuch River to be made Navigable: (as well as the frequent Occaſi<g ref="char:EOLhyphen"/>ons, which may be expected to be had of the ſame Banks, for the Cleanſing and other amendments of ſuch Rivers) muſt obliege to agreements for the ſame, wherein let the Seller departing from his right at anothers Will, ever have advantage. All which ſort of Pur<g ref="char:EOLhyphen"/>chaſes or Agreements (in every ſeveral place where the ſame are to be made) and Saſſes therein to be erected, for the raiſing of the Water to a convenient depth for the Veſſels to ride in, by the particular skill and prudence of knowing Surveyors in ſuch works, be directed unto, after a ſtrict Geometrical Survey of the ſeveral in<g ref="char:EOLhyphen"/>tervening Platforms of grounds in and about every ſuch ſeveral place where ſuch work is to be wrought, and Saſſes to be planted, as the Nature of the place which requires ſuch purchaſe for ſuch Improve<g ref="char:EOLhyphen"/>ment ſhall direct ſuch Artiſt unto, ever regarding (though the Cir<g ref="char:EOLhyphen"/>clings, windings of ſuch Grafts for Rivers, made, or to be amended for Veſſels to ſail in, ſhall thereby much enlarge the worke in mea<g ref="char:EOLhyphen"/>ſure.)</p>
+            <list>
+               <item>
+                  <hi>I.</hi> As well to avoid the Injuring of the Neighboring Coun<g ref="char:EOLhyphen"/>tryes by the overflowing of the Banks, where ſuch work is wrought, as to wave the inſupportable charge of fitting a paſſage through craggy Rocks for a ſhorter cut, as a ſerviceable border, occaſional<g ref="char:EOLhyphen"/>ly to be made uſe of for man or beaſt to tow in— And</item>
+               <item>
+                  <hi>II.</hi> To make or appoint ſuch graft (as deſigned for the
+<pb n="5" facs="tcp:31820:15"/>ſafe and firm erecting or planting of each ſuch Sluce or Saſs in, as ſhall by ſuch ſurveying Artiſt be judged requiſite for ſuch work) to be winding in the form of a Bow. Such a River as is ſo, to be taught the Uſe of Navigation, for diverſion of the force of the Main ſtream, from off ſuch Saſs, in avoidance of rending up or breaking of the ſame, which by the Natural force and current of the Stream, eſpecially in floods and Storms (if ſuch Saſſes ſhould be planted upon the moſt current Streams of the River, which they are to be inſervient unto) muſt reaſonably be expected — And no other means, ever was, or is imaginable, for the fitting of a Ri<g ref="char:EOLhyphen"/>ver of great Streams in many places, oft times too ſhallow for the draught of a Veſſel of Convenient Burthen, for good Uſe upon ſuch River, or for the apting of one River unto another, by cutting a graft betwixt two Rivers, at ſuch a Level as the Water of the one ſhal run into the other, ſo as a Veſſel may ſail, or be towed from one of the Rivers unto the other at arbitrement, except by ſuch Saſſes penning up, and thereby raiſing the water for uſe as by ſo ma<g ref="char:EOLhyphen"/>ny ſtairs or ſteps as is or may be wanting to become of convenient depth for the tranſport of Veſſels of ſo good Burthen, as may be to good purpoſe, fit for the producing of a Comerce by Navigation between any one Country of this Iſland and another.</item>
+            </list>
+            <p>Nor can the pulling up of Corn Mills (the onely Obſtruction, as being of a more publick ſervice then any other intervening good) be a ſufficient pretence to impede this Enterprize of making ſuch Ri<g ref="char:EOLhyphen"/>vers Navigable, as by conſideration of their Service to the Country, ſhall be found fit to made Navigable; ſeing that the Neceſſary Of<g ref="char:EOLhyphen"/>fice of ſuch Mills may be performed at an eaſyer charge by Horſe-mills, by Wind-mills, or by Mills termed River-Mills, which in the <hi>Low-Countryes,</hi> and ſome parts of <hi>Italy</hi> are familiarly made uſe of in flat bottomed Boates, and thereby conveyed to Service (as the Occaſion of the Country may require) from one place unto ano<g ref="char:EOLhyphen"/>ther, which by reaſon of the Number and certainty of the Gryſt of Corn at appointed times to be had, wrought by the Water-mills now in uſe amongſt us; the advantage of which, is little more then a ſlight kind of <hi>Ceremony</hi> to man, an unfit Conſideration to lay aſide a real Improvement, as is this, of making apt Rivers in the apteſt pla<g ref="char:EOLhyphen"/>ces Navigable, and the Right of Soaks belonging to the Inheritours
+<pb n="6" facs="tcp:31820:16"/>of ſuch Mills, as are ſo to be removed, are preadmitted to be reta<g ref="char:EOLhyphen"/>liated for with good advantage to the Owner: but if this great Conſumption of Timber be ſtill permitted, there will not be enough to build either Water-mill or Wind-mill.</p>
+            <p>Yet, if any Owner be of ſo <hi>moroſe</hi> a Spirit, as to bid a Contradi<g ref="char:EOLhyphen"/>ction to the worlds and his own advantage, for his ſuppoſed un<g ref="char:EOLhyphen"/>queſtionable Vineyards ſake, Its reaſonably to be underſtood a du<g ref="char:EOLhyphen"/>ty incumbent upon His Majeſty and Parlament, in ſuch a caſe as Guardian to all Subjects goods and rights (as his Catholique Ma<g ref="char:EOLhyphen"/>jeſty in his Dominions of <hi>Spain,</hi> takes charge of all the Subſtance, and affaires of perſons as are <hi>Lunatiques,</hi> governing their affairs <hi>ſine ſine, modo &amp; menſura</hi>) that His Majeſty and Parlament may diſ<g ref="char:EOLhyphen"/>poſe of the Eſtates of ſuch perſons (<hi>will</hi> they <hi>nill</hi> they) as to the <hi>Publique,</hi> ſhall ſeem beſt, without the concurrence of them.</p>
+            <p>In every place where the making of a River Navigable is de<g ref="char:EOLhyphen"/>ſigned to be enterprized, there is ſeriouſly to be conſidered what improvement may moſt probably accrew to the Land or any part of the Land thereby, <hi>viz.</hi> what charge may be ſa<g ref="char:EOLhyphen"/>ved, and what profit may by means thereof be had, which elſe could not be had, and a conference of this muſt be had, with what muſt be expended for effecting of ſuch work, a computation ſufficiently eaſy, unto abundant ſatisfaction to be made, for where amongſt other ſervices, ſuch Rivers ſhall become ſubſervient to ſome certain great Staple Trade, the Profit both to King and Sub<g ref="char:EOLhyphen"/>ject being certain to be alwayes great (admitting the ordinary Pro<g ref="char:EOLhyphen"/>vidence of Heavens influence in the preſerving of ſuch Trade) And the the charge being but once, and that to be probably effected by one years profit, accrewable by ſuch River, or well near there<g ref="char:EOLhyphen"/>abouts, reaſonably to be computed by the neceſſary and great Trade of Coales, <hi>&amp;c.</hi> unqueſtionably to be concluded upon, to be had upon ſuch River by the Countryes great want of fuell bordering upon the ſame, all other Trades to be had upon ſuch Rivers bear<g ref="char:EOLhyphen"/>ing their proper ſhare, in the aſſiſtance of it, and conſidering fur<g ref="char:EOLhyphen"/>ther, that ſuch works are alwayes to be wrought, where the grounds (which are to be ſo cut through) are to be found, or ad<g ref="char:EOLhyphen"/>mitted to be ſo favorable in their Scite and nature to the Work, as that of themſelves they much lean to the doing of the ſame: where<g ref="char:EOLhyphen"/>by
+<pb n="7" facs="tcp:31820:16"/>by the charge muſt be eſteemed moderate and ſuch River already had or to be made at, or well nigh, ſo moderate rates muſt, <hi>primo intuitu,</hi> be deemed properly worthy to be ſo fitted for Navigation, all other conſtant immergent charges of preſerving the River, once made ſo Navigable being too Inconſiderable to out-weigh the Scales in this caſe.</p>
+            <p>By this <hi>Lesbian</hi> Rule, I have ſurveyed, examined, and found di<g ref="char:EOLhyphen"/>vers Rivers within this Iſland in apt places for ſuch Trade practica<g ref="char:EOLhyphen"/>ble, with eaſe to be made thus Navigable, and more particu<g ref="char:EOLhyphen"/>larly,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> That the River <hi>Avon</hi> of <hi>Briſtol,</hi> may be, by the preſcri<g ref="char:EOLhyphen"/>bed means of Art, charge and power upon the premiſed, prudent Ballance of Charge and Profit, be made Navigable from <hi>Briſtol</hi> to <hi>Calne,</hi> or to <hi>Mamsbury</hi> in <hi>Wiltſhire,</hi> and by cutting a Graft of five Miles, or thereabout, in length onely, through a ground which I found favorable by Nature, for ſuch purpoſe: the ſame River may take its Journey for the ſame uſe, (planting Saſſes alſo aptly upon the ſame) from <hi>Mamesbury</hi> to <hi>Leſhlade</hi> in <hi>Oxfordſhire,</hi> and there ſalute the River <hi>Iſis</hi> already Navigable, which ſo delivers it ſelf into the <hi>Thames,</hi> and bring the Trade of <hi>Ireland,</hi> the Rich fruits of <hi>Corn<g ref="char:EOLhyphen"/>wall, Devon</hi> and <hi>Sommerſet, Mendip Hills,</hi> and <hi>Wales,</hi> and any other Portage, as well as of the Intervening Countryes, to the Cit<g ref="char:EOLhyphen"/>tyes of <hi>Briſtol</hi> and <hi>London,</hi> mentioned; and back again at will; by ſo much a ſhorter and ſafer cut; (as will appear more plainly by di<g ref="char:EOLhyphen"/>vers Maps, and other printed Papers, ſet forth at my own particu<g ref="char:EOLhyphen"/>lar charge) and ſo much leſſer charge of Portage then elſe can be (one boat upon the ſame carrying as much as an hundred horſe) as muſt exceedingly abate the price, by leſſening the Char<g ref="char:EOLhyphen"/>ges of the Commodities of the ſame: and more particularly bring an Immeaſurable Trade of <hi>Coales</hi> from <hi>Wales</hi> and <hi>Briſtol,</hi> to the im<g ref="char:EOLhyphen"/>ploying of many thouſand Subjects in Mines, and alſo about the River, and the great advance of many a man by Merchandize, in and about the ſame; to the incredible Relief of the bordering Countryes of <hi>Wiltſhire, Gloceſterſhire, Oxfordſhire,</hi> and others ly<g ref="char:EOLhyphen"/>ing on or near the ſame, as far as His Majeſty ſhall from time to time think meet in prudence to admit of; ever regarding the Pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="8" facs="tcp:31820:17"/>of His <hi>Newcaſtle</hi> Trade, the great ſupport of His Navy, which by the Supplyes of the aforementioned Countryes from <hi>Briſtol</hi> will not be endamaged: This propoſed Trade of <hi>Coal,</hi> not claſhing with the <hi>Newcaſtle</hi> Trade at all; ſo much more may His Maj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſties Coffers be enriched, then now they are, as well as by other Impoſts; by an Impoſt upon this Trade of Coales in the River <hi>Avon</hi> of <hi>Bri<g ref="char:EOLhyphen"/>ſtol</hi> becoming Navigable, as is ſet forth, Inſenſible to thoſe Coun<g ref="char:EOLhyphen"/>tryes, which are to be ſupplyed by the ſame, being they now pay thrice the rates for <hi>Coal</hi> to what the ſame may be afforded at by the Merchant, notwithſtanding his diſcharge of ſuch great Impoſt upon the ſame: and all other Commodities may be commerced in, upon this River, at half the Charge of what is paid for Land carriage or Portage, much to the Subjects eaſe and happineſs, which alſo may afford a very conſiderable Return to His Majeſty for the ſame, to be ſquared out, when the River ſhall become thus Navigable, as His Majeſty and Parlament (by Ballance of the Gain of Portage in each particular Commodity to be thereby had above what is now had) ſhall deem moſt juſt to both. And its worthy to be conſi<g ref="char:EOLhyphen"/>dered, how great a relief of Coal, in times of Warr at Sea, the City of <hi>LONDON</hi> may enjoy by this Atchievement, Let the Ci<g ref="char:EOLhyphen"/>ties incredible want of Coal, near to the hazard of an Inſurrection, in our late Conflicts with the <hi>Dutch,</hi> and the great Ingredient, the Conſideration of this want was of, to the Neceſſary contracting of that Speedy Peace with them, convince us: Were my Adviſes of Sufficient Intereſt to take place at the Helme, no earlier enterprize ſhould be made, then this of making Rivers Navigable within this Iſland, as is above ſet forth, in Order to a ſecure Relief of this moſt famous City of <hi>LONDON,</hi> with all ſorts of Commodi<g ref="char:EOLhyphen"/>ties, as, Timber, Stone, Lead, Iron, and all other Materials for re<g ref="char:EOLhyphen"/>edifying the ſame, (by a prudent Care) upon Occaſion of ſuch di<g ref="char:EOLhyphen"/>ſtreſs to be had, or threatned, by War or otherwiſe. And its well wor<g ref="char:EOLhyphen"/>thy to be conſidered of how great Relief this may be, by the Por<g ref="char:EOLhyphen"/>tage of an Army, as is above ſet forth.</item>
+               <item>
+                  <hi>Secondly,</hi> I find, that after the like manner to the like Traffique of Commodities (when thoſe tempeſtuous Seas, for want of con<g ref="char:EOLhyphen"/>venient Harbours upon the Borders of <hi>Lincolnſhire,</hi> bids denyal
+<pb n="9" facs="tcp:31820:17"/>to all ſafe Trade there, to the like great Imployment of Miners, and other men, and great enrichment of many a Merchant there<g ref="char:EOLhyphen"/>by: the like relief to His Majeſty and Subjects, in the charge of Portage, as Occaſion ſhall require an abatement of rates through divers Countryes thereby, and the like Return of Impoſt upon all Commodities, with the like amicable reſpect, by an equal ballance of what each Commodity will bear, by conſent of Parlament, to be ſetled upon His Majeſty for the ſame; as the River <hi>Avon</hi> of <hi>Bri<g ref="char:EOLhyphen"/>ſtol:</hi> may the River <hi>Waveney</hi> be made Navigable, by cutting of a convenient graft near <hi>Loppam</hi> Bridge, ſufficient for Navigation, leſs then three Miles (through grounds, in their own Nature favo<g ref="char:EOLhyphen"/>rable for ſuch an Enterprize) into <hi>Little Ouſe</hi> which carryes it ſelf unto <hi>Linn</hi> in <hi>Norfolk,</hi> and by Planting Saſſes upon thoſe Rivers, as ſhall be adviſed by the preſcribed directions: any Commodities (as occaſion ſhall require) may be hereby conveyed to the Uſe of <hi>Suf<g ref="char:EOLhyphen"/>folk,</hi> and <hi>Norfolk.</hi> Theſe two Rivers ſo dividing thoſe two Coun<g ref="char:EOLhyphen"/>tries from <hi>Yarmouth</hi> unto <hi>Linn,</hi> whence there is an open paſſage already had to <hi>Boſton,</hi> with ſuch Rivolets ſhooting out in Armes to <hi>Cambridge,</hi> the Iſle of <hi>Ely</hi> and other places, provided by Na<g ref="char:EOLhyphen"/>ture to the convenient ſupply of thoſe parts, ſo as any thing may by that means be tranſported unto <hi>Boſton,</hi> and thence up the Ri<g ref="char:EOLhyphen"/>ver <hi>Witham</hi> unto the City of <hi>Lincoln,</hi> whence by opening the paſ<g ref="char:EOLhyphen"/>ſage (by neglect ſhut up) betwixt that City and <hi>York</hi> Sea, upon <hi>Trent,</hi> heretofore made Navigable, as <hi>Cambden</hi> reports, by our <hi>Henry</hi> the <hi>firſt,</hi> in a tender of his Subjects eaſe, in his Progreſſes of State which he firſt begun) a like tranſport, to the immediate great ſervice of the Counties of <hi>Nottingham, Lincoln</hi> and <hi>Derby,</hi> may any Commodities be tranſported there, and thence for <hi>York,</hi> and all the Countryes adjacent to thoſe Mediterranean paſſages, as the Maps and Hiſtories of them, (ſhewing all theſe Intervening Ri<g ref="char:EOLhyphen"/>vers, then by Nature free for Navigation, unto <hi>York,</hi> and other neighboring parts) will beſt ſet forth, in which perhaps a King hath ſayled. This way may be an interchange of all reliefs which any of the neighbouring Counties may ſupply each other with, betwixt <hi>York</hi> and <hi>Yarmouth,</hi> and Armies may occaſionally, with incredible advantage to themſelves and Country (as was ſaid to be done by the ſame Prince) be conveyed upon the ſame.</item>
+            </list>
+            <pb n="10" facs="tcp:31820:18"/>
+            <p>But the Country then being Strangers to the Trade of Coal, a Commodity, then and for ſeveral Generations fully prevented by the ready ſupply of Wood for fewel, and all other Traffique of theſe Countries being much ſhort of what now the ſame is; This New-cut River of ſeven miles betwixt <hi>Lincolne</hi> and <hi>Torkſea,</hi> for want of <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> became ſludg'd up and is grown into a Paſture, which the onely Trade of <hi>Coales</hi> (which it might be accommoda<g ref="char:EOLhyphen"/>ted with) from <hi>Nottingham-ſhire, Derby-ſhire</hi> or <hi>Yorkſhire,</hi> were it now Navigable as then it was, as well to the great relief of all the aforemen ioned Countryes as the enrichment of Your Maje<g ref="char:EOLhyphen"/>ſtie would now preſerve; And let theſe obſervations made on theſe two Rivers induce unto an Inqueſt, and Ballance of other Ri<g ref="char:EOLhyphen"/>vers within this Iſland: and bring thoſe Parts into a flouriſhing Con<g ref="char:EOLhyphen"/>dition, all ſorts of Commodities from the <hi>Eaſtern</hi> parts of the World being equally diſtributed to the <hi>North</hi> and <hi>East</hi> of <hi>England,</hi> (as by the former deſign of opening the Rivers between <hi>London</hi> and <hi>Briſtol,</hi> to the <hi>Weſtern</hi> parts is exemplifi'd) in and from abroad communicated to the <hi>Weſt</hi> and <hi>South.</hi>
+            </p>
+         </div>
+         <div type="list">
+            <pb n="11" facs="tcp:31820:18"/>
+            <head>
+               <hi>Market-Townes</hi> Standing near, or upon, <hi>The</hi> LITTLE OWSE AND WAVENEY.</head>
+            <list>
+               <item>Brandon</item>
+               <item>Thetford</item>
+               <item>Dis</item>
+               <item>Harleston</item>
+               <item>Bungey</item>
+               <item>Berkles</item>
+               <item>Leſtof</item>
+               <item>Yarmouth</item>
+            </list>
+         </div>
+         <div type="list">
+            <head>Other <hi>Market-Towns</hi> within 10 Miles of theſe RIVERS.</head>
+            <list>
+               <item>From <hi>Beckles</hi> to <hi>Yarmouth,</hi> 9 miles.</item>
+               <item>From <hi>Beckles</hi> to <hi>Leſtof,</hi> 8 miles.</item>
+               <item>From <hi>Bungey</hi> to <hi>Norwich,</hi> 10 miles.</item>
+               <item>From <hi>Yarmouth</hi> to Norwich already a Navigable paſ<g ref="char:EOLhyphen"/>ſage.</item>
+               <item>From <hi>Harleſtone</hi> to <hi>Windham,</hi> 9 miles.</item>
+               <item>From <hi>Dis</hi> to <hi>Windham,</hi> 10 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Higham,</hi> 10 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Harling,</hi> 3 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Bucknam,</hi> 5 miles.</item>
+               <item>From <hi>Thetford</hi> to <hi>Watton,</hi> 9 miles.</item>
+               <pb n="12" facs="tcp:31820:19"/>
+               <item>From <hi>Brandon</hi> to <hi>Swafham,</hi> 10 miles.</item>
+               <item>From <hi>Beckles</hi> to <hi>Sowld,</hi> 9 miles.</item>
+               <item>From <hi>Beckles</hi> to <hi>Harleſton,</hi> 7 miles.</item>
+               <item>From <hi>Bungey</hi> to <hi>Harleſton,</hi> 7 miles.</item>
+               <item>From <hi>Harleſton</hi> to <hi>Framlingham,</hi> 8 miles.</item>
+               <item>From <hi>Dis</hi> to <hi>Buddesdall,</hi> 3 miles.</item>
+               <item>From <hi>Dis</hi> to <hi>Aye,</hi> 3 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>VVolpet,</hi> 9 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Stow,</hi> 9 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Needham,</hi> 10 miles.</item>
+               <item>From <hi>Loppham</hi> to <hi>Mildnal,</hi> 6 miles.</item>
+            </list>
+            <p>All theſe Market Towns, beſides Innumerable Villages, with many Gentlemens Houſes of Note, would ſo make uſe of theſe Two Rivers, that a marvelous Trade, would be driven upon them, and ſailing out of the <hi>Little Owſe,</hi> the Boats enter into the <hi>Great Owſe,</hi> which already is Navi<g ref="char:EOLhyphen"/>gable to <hi>Lynne,</hi> and to all the Towns within the Iſle of <hi>Ely,</hi> even up to <hi>Cambridg.</hi> Deſignes worthy to be brought forth under the happy Government and Protection of Your Majeſty.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="12" facs="tcp:31820:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
